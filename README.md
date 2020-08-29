@@ -18,6 +18,6 @@
 
 
 语言：
-C++
+OBJECT C C++
 平台：iOS，Android，WebHtml
 
